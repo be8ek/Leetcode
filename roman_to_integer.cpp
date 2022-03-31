@@ -20,10 +20,3 @@ class Solution {
         return res;
     }
 }; 
-
-int main() {
-    int n; 
-    cin >> n; 
-    cout << "Your entered number is: " << n << endl; 
-    return 0; 
-}
